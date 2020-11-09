@@ -1,3 +1,6 @@
+# K-modes clustering algorithm using mushroom dataset
+# https://archive.ics.uci.edu/ml/datasets/mushroom
+
 import sys
 import numpy as np
 import pandas as pd
